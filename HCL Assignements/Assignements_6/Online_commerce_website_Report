@@ -1,0 +1,99 @@
+
+---
+
+# **MANUAL TEST CASE REPORT**
+
+## **Online E-Commerce Website**
+
+---
+
+## **1. Introduction**
+
+Manual testing is carried out to ensure that the Online E-Commerce Website works correctly and provides a smooth shopping experience. The system allows users to browse products, add them to cart, make payments, and track orders. Manual testing verifies that all these features operate as expected without errors.
+
+---
+
+## **2. Objective**
+
+The main objectives of manual testing are:
+
+* To verify correct working of all e-commerce features
+* To ensure secure and accurate order processing
+* To validate the user interface
+* To detect and remove defects
+
+---
+
+## **3. Scope of Testing**
+
+The following modules were tested:
+
+* User Registration and Login
+* Product Search and Display
+* Shopping Cart
+* Order and Payment
+* Order History
+
+---
+
+## **4. Test Environment**
+
+| Component        | Description        |
+| ---------------- | ------------------ |
+| Operating System | Windows 10         |
+| Browser          | Google Chrome      |
+| Database         | MySQL              |
+| Application      | E-Commerce Website |
+| Testing Type     | Manual Testing     |
+
+---
+
+## **5. Test Scenarios**
+
+* User login and logout
+* Browsing and searching products
+* Adding and removing items from cart
+* Placing orders
+* Making payments
+
+---
+
+## **6. Manual Test Cases**
+
+| Test Case ID | Test Case Description      | Test Steps                        | Expected Result    | Actual Result    | Status |
+| ------------ | -------------------------- | --------------------------------- | ------------------ | ---------------- | ------ |
+| TC01         | Login with valid details   | Enter valid username and password | Login successful   | Login successful | Pass   |
+| TC02         | Login with invalid details | Enter wrong credentials           | Error displayed    | Error shown      | Pass   |
+| TC03         | View products              | Open product list                 | Products displayed | Displayed        | Pass   |
+| TC04         | Add product to cart        | Click “Add to Cart”               | Product added      | Added            | Pass   |
+| TC05         | Remove product from cart   | Click remove                      | Product removed    | Removed          | Pass   |
+| TC06         | Place order                | Click checkout                    | Order placed       | Order placed     | Pass   |
+| TC07         | Make payment               | Enter valid payment details       | Payment successful | Successful       | Pass   |
+| TC08         | Invalid payment            | Enter wrong card details          | Payment failed     | Error displayed  | Pass   |
+| TC09         | View order history         | Open order history                | Orders displayed   | Displayed        | Pass   |
+| TC10         | Logout                     | Click logout                      | User logged out    | Logged out       | Pass   |
+
+---
+
+## **7. Test Results Summary**
+
+| Total Test Cases | Passed | Failed |
+| ---------------- | ------ | ------ |
+| 10               | 10     | 0      |
+
+All test cases passed successfully.
+
+---
+
+## **8. Defect Report**
+
+No major defects were found. Minor UI issues were observed and corrected.
+
+---
+
+## **9. Conclusion**
+
+The Online E-Commerce Website was tested manually and all important functions like login, product selection, cart, and payment are working correctly. The system is reliable and ready for use.
+
+---
+

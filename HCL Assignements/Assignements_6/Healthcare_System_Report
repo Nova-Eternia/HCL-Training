@@ -1,0 +1,99 @@
+
+---
+
+# **MANUAL TEST CASE REPORT**
+
+## **Healthcare Management System**
+
+---
+
+## **1. Introduction**
+
+Manual testing is performed to ensure that the Healthcare Management System works correctly and efficiently. The system is used to manage patient records, appointments, doctor details, billing, and medical history. Manual testing verifies that all features function properly and that patient data is handled accurately and securely.
+
+---
+
+## **2. Objective**
+
+The objectives of manual testing are:
+
+* To verify the accuracy of patient and medical data
+* To ensure smooth appointment booking
+* To validate system usability
+* To identify and remove defects
+
+---
+
+## **3. Scope of Testing**
+
+The following modules were tested:
+
+* User Login
+* Patient Registration
+* Appointment Management
+* Medical Records
+* Billing and Reports
+
+---
+
+## **4. Test Environment**
+
+| Component        | Description                  |
+| ---------------- | ---------------------------- |
+| Operating System | Windows 10                   |
+| Browser          | Google Chrome                |
+| Database         | MySQL                        |
+| Application      | Healthcare Management System |
+| Testing Type     | Manual Testing               |
+
+---
+
+## **5. Test Scenarios**
+
+* User login and logout
+* Adding and updating patient records
+* Booking and canceling appointments
+* Viewing medical history
+* Generating bills
+
+---
+
+## **6. Manual Test Cases**
+
+| Test Case ID | Test Case Description          | Test Steps                  | Expected Result       | Actual Result    | Status |
+| ------------ | ------------------------------ | --------------------------- | --------------------- | ---------------- | ------ |
+| TC01         | Login with valid credentials   | Enter username and password | Login successful      | Login successful | Pass   |
+| TC02         | Login with invalid credentials | Enter wrong details         | Error displayed       | Error shown      | Pass   |
+| TC03         | Register new patient           | Enter patient details       | Patient added         | Added            | Pass   |
+| TC04         | Book appointment               | Select doctor and date      | Appointment confirmed | Confirmed        | Pass   |
+| TC05         | Cancel appointment             | Click cancel                | Appointment cancelled | Cancelled        | Pass   |
+| TC06         | View medical records           | Open patient history        | Records displayed     | Displayed        | Pass   |
+| TC07         | Update patient details         | Edit and save               | Details updated       | Updated          | Pass   |
+| TC08         | Generate bill                  | Click generate bill         | Bill generated        | Generated        | Pass   |
+| TC09         | Invalid data entry             | Enter wrong data            | Error message         | Error shown      | Pass   |
+| TC10         | Logout                         | Click logout                | User logged out       | Logged out       | Pass   |
+
+---
+
+## **7. Test Results Summary**
+
+| Total Test Cases | Passed | Failed |
+| ---------------- | ------ | ------ |
+| 10               | 10     | 0      |
+
+All test cases passed successfully.
+
+---
+
+## **8. Defect Report**
+
+No major defects were found. Minor UI and validation issues were corrected.
+
+---
+
+## **9. Conclusion**
+
+The Healthcare Management System was tested manually and all essential features such as patient registration, appointments, medical records, and billing are working correctly. The system is stable and ready for use.
+
+---
+

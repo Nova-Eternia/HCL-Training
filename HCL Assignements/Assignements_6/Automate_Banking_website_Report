@@ -1,0 +1,98 @@
+
+---
+
+# **MANUAL TEST CASE REPORT**
+
+## **Automated Banking Website**
+
+---
+
+## **1. Introduction**
+
+Manual testing is performed to ensure that the Automated Banking Website functions correctly and securely. The system allows users to perform banking operations such as login, balance inquiry, fund transfer, bill payment, and viewing transaction history. Manual testing ensures that all features work properly and that financial transactions are processed accurately.
+
+---
+
+## **2. Objective**
+
+The objectives of manual testing are:
+
+* To verify correct working of banking features
+* To ensure secure and accurate transactions
+* To validate system reliability
+* To detect errors and defects
+
+---
+
+## **3. Scope of Testing**
+
+The following modules were tested:
+
+* User Login
+* Account Management
+* Fund Transfer
+* Bill Payment
+* Transaction History
+
+---
+
+## **4. Test Environment**
+
+| Component        | Description               |
+| ---------------- | ------------------------- |
+| Operating System | Windows 10                |
+| Browser          | Google Chrome             |
+| Database         | MySQL                     |
+| Application      | Automated Banking Website |
+| Testing Type     | Manual Testing            |
+
+---
+
+## **5. Test Scenarios**
+
+* User login and logout
+* Checking account balance
+* Transferring funds
+* Paying bills
+* Viewing transaction history
+
+---
+
+## **6. Manual Test Cases**
+
+| Test Case ID | Test Case Description              | Test Steps                        | Expected Result         | Actual Result    | Status |
+| ------------ | ---------------------------------- | --------------------------------- | ----------------------- | ---------------- | ------ |
+| TC01         | Login with valid credentials       | Enter valid username and password | Login successful        | Login successful | Pass   |
+| TC02         | Login with invalid credentials     | Enter wrong details               | Error message displayed | Error displayed  | Pass   |
+| TC03         | Check account balance              | Click balance option              | Balance shown           | Displayed        | Pass   |
+| TC04         | Transfer funds                     | Enter valid details and submit    | Amount transferred      | Transferred      | Pass   |
+| TC05         | Transfer with insufficient balance | Enter amount higher than balance  | Error displayed         | Error shown      | Pass   |
+| TC06         | Pay bill                           | Enter bill details                | Payment successful      | Successful       | Pass   |
+| TC07         | View transaction history           | Open history                      | History displayed       | Displayed        | Pass   |
+| TC08         | Logout                             | Click logout                      | User logged out         | Logged out       | Pass   |
+| TC09         | Session timeout                    | Stay inactive                     | User logged out         | Logged out       | Pass   |
+| TC10         | Invalid beneficiary                | Enter wrong account               | Error shown             | Error shown      | Pass   |
+
+---
+
+## **7. Test Results Summary**
+
+| Total Test Cases | Passed | Failed |
+| ---------------- | ------ | ------ |
+| 10               | 10     | 0      |
+
+All test cases passed successfully.
+
+---
+
+## **8. Defect Report**
+
+No major defects were identified. Minor display issues were resolved.
+
+---
+
+## **9. Conclusion**
+
+The Automated Banking Website was manually tested and all important banking operations such as login, fund transfer, and bill payment are working correctly. The system is stable and ready for use.
+
+---
