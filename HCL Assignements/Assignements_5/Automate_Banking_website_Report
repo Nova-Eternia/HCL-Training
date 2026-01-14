@@ -1,0 +1,215 @@
+
+---
+
+# **PROJECT REPORT**
+
+## **Automated Banking Website using Agile Methodology**
+
+---
+
+## **1. Abstract**
+
+An Automated Banking Website is an online system that allows customers to perform banking activities such as balance inquiry, fund transfer, bill payment, and account management without visiting a physical bank branch. This project develops an **Automated Banking Website using Agile methodology**, which ensures fast development, continuous improvement, and better security. Agile allows the system to be updated regularly based on customer and bank requirements.
+
+---
+
+## **2. Introduction**
+
+In today’s digital world, banking services must be available anytime and anywhere. Manual banking processes are slow, require paperwork, and consume time. An automated banking website allows customers to perform transactions online securely. Using Agile methodology helps in developing a flexible and reliable system that can be improved continuously based on user feedback.
+
+---
+
+### **2.1 Problem Statement**
+
+Traditional banking systems require customers to visit bank branches for simple operations like fund transfer or balance check. Even some old online systems are slow and difficult to update. A modern, secure, and flexible banking platform is needed.
+
+---
+
+### **2.2 Need of the Project**
+
+* To provide online banking services
+* To reduce workload on bank staff
+* To allow 24/7 access to banking
+* To improve customer convenience
+* To update the system easily using Agile
+
+---
+
+### **2.3 Project Scheduling (Agile)**
+
+The project is divided into sprints:
+
+| Sprint   | Activities                         |
+| -------- | ---------------------------------- |
+| Sprint 1 | Requirement gathering and planning |
+| Sprint 2 | User login and account module      |
+| Sprint 3 | Fund transfer and transaction      |
+| Sprint 4 | Bill payment and reports           |
+| Sprint 5 | Testing and deployment             |
+
+---
+
+## **3. Objectives**
+
+* To develop an online banking system
+* To provide secure financial transactions
+* To manage user accounts and records
+* To use Agile for flexible development
+* To improve customer satisfaction
+
+---
+
+## **4. Software Requirement Specification (SRS)**
+
+### **4.1 Purpose**
+
+To create a web-based banking system that allows customers to perform banking operations securely and efficiently using Agile methodology.
+
+---
+
+### **4.2 Scope**
+
+The system will:
+
+* Allow user registration and login
+* Show account balance and transactions
+* Support fund transfer
+* Enable bill payments
+* Generate transaction reports
+
+---
+
+### **4.3 Hardware Requirements**
+
+* Processor: Intel i3 or above
+* RAM: 4 GB minimum
+* Hard Disk: 40 GB
+* Internet connection
+
+---
+
+### **4.4 Software Requirements**
+
+* Operating System: Windows / Linux
+* Browser: Chrome, Edge
+* Backend: Java / Python
+* Frontend: HTML, CSS, JavaScript
+* Database: MySQL
+
+---
+
+### **4.5 Tools Used**
+
+* VS Code
+* MySQL
+* GitHub
+* Postman
+
+---
+
+### **4.6 Software Process Model**
+
+Agile (Scrum Framework)
+
+---
+
+## **5. System Design**
+
+The system includes:
+
+* User Interface
+* Application Server
+* Secure Database
+* Authentication Module
+* Payment Gateway
+
+---
+
+## **6. Implementation**
+
+The project is developed in multiple Agile sprints:
+
+* User registration and login
+* Account management
+* Fund transfer
+* Bill payment
+* Transaction history
+
+Each module is tested and improved continuously.
+
+---
+
+## **7. Output Screens**
+
+The system provides:
+
+* Login Page
+* Account Dashboard
+* Fund Transfer Screen
+* Bill Payment Screen
+* Transaction History
+
+---
+
+## **8. Testing**
+
+Testing is done after every sprint.
+
+### **Test Results**
+
+| Test Case     | Expected Result    | Actual Result |
+| ------------- | ------------------ | ------------- |
+| Login         | Successful         | Pass          |
+| Fund transfer | Amount transferred | Pass          |
+| Bill payment  | Payment completed  | Pass          |
+| Balance check | Balance displayed  | Pass          |
+
+---
+
+## **9. User Model**
+
+### **Screen Layout**
+
+* Menu bar
+* Forms for transactions
+* Tables for transaction history
+
+### **Screen Description**
+
+Users can easily navigate through the website to perform banking operations.
+
+---
+
+## **10. Software Application and Limitations**
+
+### **Applications**
+
+* Banking institutions
+* Online financial services
+* Customer self-service portals
+
+### **Limitations**
+
+* Requires internet
+* Risk of cyber attacks
+* Depends on server availability
+
+---
+
+## **11. Conclusion**
+
+The Automated Banking Website using Agile methodology provides secure, fast, and flexible banking services. Agile ensures continuous improvement and better customer experience.
+
+---
+
+## **12. Future Enhancement**
+
+* Mobile banking app
+* Biometric authentication
+* AI-based fraud detection
+* Chatbot support
+* Cloud-based services
+
+---
+
+

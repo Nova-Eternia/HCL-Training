@@ -1,0 +1,213 @@
+
+---
+
+# **PROJECT REPORT**
+
+## **Customer Relationship Management (CRM) using Agile Methodology**
+
+---
+
+## **1. Abstract**
+
+Customer Relationship Management (CRM) is a software system used to manage interactions between an organization and its customers. It helps businesses improve customer satisfaction, increase sales, and provide better service. This project develops a CRM system using **Agile methodology**, which allows continuous improvement through regular feedback and quick development cycles. The system manages customer data, sales activities, and customer support using a flexible and scalable approach.
+
+---
+
+## **2. Introduction**
+
+CRM plays a vital role in modern organizations by organizing customer-related information and improving communication. With the growing number of customers and digital transactions, manual systems are inefficient. Therefore, a software-based CRM system is required. Using Agile methodology ensures faster delivery, improved quality, and adaptability to changing customer needs.
+
+---
+
+### **2.1 Problem Statement**
+
+Traditional customer management systems are slow, manual, and error-prone. Organizations struggle to track customer details, sales, and support requests efficiently. A dynamic and automated CRM system is needed to solve these problems.
+
+---
+
+### **2.2 Need of the Project**
+
+* To store customer data securely
+* To improve sales and customer service
+* To automate customer interaction processes
+* To provide real-time data access
+* To develop software that can be easily updated
+
+---
+
+### **2.3 Project Scheduling (Agile)**
+
+The project is divided into **multiple sprints**:
+
+| Sprint   | Activity                          |
+| -------- | --------------------------------- |
+| Sprint 1 | Requirement analysis and planning |
+| Sprint 2 | Customer module development       |
+| Sprint 3 | Sales and support module          |
+| Sprint 4 | Testing and deployment            |
+
+Each sprint lasts two weeks and produces a working module.
+
+---
+
+## **3. Objectives**
+
+* To design a CRM system
+* To manage customer and sales data
+* To use Agile for faster development
+* To improve customer satisfaction
+* To make the system scalable and flexible
+
+---
+
+## **4. Software Requirement Specification (SRS)**
+
+### **4.1 Purpose**
+
+To build a CRM system that efficiently manages customers, sales, and support using Agile methodology.
+
+---
+
+### **4.2 Scope**
+
+The system will:
+
+* Store customer information
+* Track sales
+* Handle customer support
+* Generate reports
+
+---
+
+### **4.3 Hardware Requirements**
+
+* Processor: Intel i3 or above
+* RAM: 4 GB or more
+* Hard Disk: 40 GB
+* Internet connection
+
+---
+
+### **4.4 Software Requirements**
+
+* Operating System: Windows / Linux
+* Web Browser: Chrome, Edge
+* Backend: Python / Java
+* Database: MySQL
+* Frontend: HTML, CSS, JavaScript
+
+---
+
+### **4.5 Tools Used**
+
+* VS Code
+* MySQL
+* GitHub
+* Postman
+
+---
+
+### **4.6 Software Process Model**
+
+Agile (Scrum Framework)
+
+---
+
+## **5. System Design**
+
+The CRM system has:
+
+* User Interface
+* Application Server
+* Database
+* Security Module
+
+Users interact with the system through a web interface, and data is stored in a centralized database.
+
+---
+
+## **6. Implementation**
+
+The system is developed in multiple sprints.
+Modules implemented:
+
+* Customer registration
+* Sales tracking
+* Support ticket system
+* Report generation
+
+Each module is developed, tested, and improved through Agile cycles.
+
+---
+
+## **7. Output Screens**
+
+The system displays:
+
+* Login Screen
+* Dashboard
+* Customer Details Page
+* Sales Report Page
+* Support Ticket Page
+
+---
+
+## **8. Testing**
+
+Testing is done after every sprint.
+
+### **Test Result**
+
+| Test Case       | Expected Result  | Actual Result |
+| --------------- | ---------------- | ------------- |
+| Login           | Successful login | Pass          |
+| Add customer    | Data saved       | Pass          |
+| Generate report | Report displayed | Pass          |
+
+---
+
+## **9. User Model**
+
+### **Screen Layout**
+
+* Header with menu
+* Data input form
+* Table for customer records
+
+### **Screen Description**
+
+Users can add, edit, and view customer and sales details using simple screens.
+
+---
+
+## **10. Software Application and Limitations**
+
+### **Applications**
+
+* Used in sales organizations
+* Customer support centers
+* Marketing departments
+
+### **Limitations**
+
+* Requires internet connection
+* Limited to basic features
+* Needs regular updates
+
+---
+
+## **11. Conclusion**
+
+The CRM system developed using Agile methodology provides an efficient way to manage customer relationships. It improves sales, service, and customer satisfaction while allowing continuous improvement through feedback.
+
+---
+
+## **12. Future Enhancement**
+
+* AI-based customer prediction
+* Mobile application
+* Cloud deployment
+* Advanced analytics
+* Chatbot integration
+
+---

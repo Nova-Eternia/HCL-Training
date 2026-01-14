@@ -1,0 +1,213 @@
+
+---
+
+# **PROJECT REPORT**
+
+## **Online E-Commerce Website using Agile Methodology**
+
+---
+
+## **1. Abstract**
+
+An Online E-Commerce Website is a web-based platform that allows customers to buy and sell products over the internet. With the rapid growth of digital shopping, businesses need flexible and reliable systems to manage products, orders, and customers. This project develops an **E-Commerce Website using Agile methodology**, which enables quick development, regular updates, and continuous improvement based on user feedback.
+
+---
+
+## **2. Introduction**
+
+E-Commerce has become an essential part of modern business. Customers prefer online shopping because it is fast, convenient, and offers multiple choices. Traditional development methods cannot easily adapt to changing customer requirements. Therefore, Agile methodology is used to build the e-commerce system so that new features and improvements can be added continuously.
+
+---
+
+### **2.1 Problem Statement**
+
+Traditional shopping systems and some old e-commerce platforms are slow, difficult to manage, and not flexible. Customers face issues such as delayed updates, limited product information, and poor user experience. A modern and flexible online shopping system is required.
+
+---
+
+### **2.2 Need of the Project**
+
+* To provide a user-friendly online shopping platform
+* To allow customers to browse and buy products easily
+* To manage orders and payments efficiently
+* To improve customer satisfaction
+* To develop the system using Agile for fast updates
+
+---
+
+### **2.3 Project Scheduling (Agile)**
+
+The project is divided into sprints:
+
+| Sprint   | Activities                      |
+| -------- | ------------------------------- |
+| Sprint 1 | Requirement analysis and design |
+| Sprint 2 | User login and product catalog  |
+| Sprint 3 | Cart and order management       |
+| Sprint 4 | Payment and delivery module     |
+| Sprint 5 | Testing and deployment          |
+
+---
+
+## **3. Objectives**
+
+* To design a complete e-commerce website
+* To provide secure online shopping
+* To manage products and orders
+* To use Agile for faster development
+* To improve customer experience
+
+---
+
+## **4. Software Requirement Specification (SRS)**
+
+### **4.1 Purpose**
+
+To develop an online shopping system where users can view, select, and purchase products easily using Agile methodology.
+
+---
+
+### **4.2 Scope**
+
+The system will:
+
+* Allow user registration and login
+* Display products and categories
+* Support cart and checkout
+* Enable online payment
+* Provide order tracking
+
+---
+
+### **4.3 Hardware Requirements**
+
+* Processor: Intel i3 or above
+* RAM: 4 GB minimum
+* Hard Disk: 40 GB
+* Internet connection
+
+---
+
+### **4.4 Software Requirements**
+
+* Operating System: Windows / Linux
+* Browser: Chrome, Firefox
+* Backend: Java / Python
+* Frontend: HTML, CSS, JavaScript
+* Database: MySQL
+
+---
+
+### **4.5 Tools Used**
+
+* VS Code
+* MySQL
+* GitHub
+* Postman
+
+---
+
+### **4.6 Software Process Model**
+
+Agile (Scrum Methodology)
+
+---
+
+## **5. System Design**
+
+The system includes:
+
+* Web User Interface
+* Application Server
+* Product Database
+* Payment Gateway
+* Admin Panel
+
+---
+
+## **6. Implementation**
+
+The project is developed in multiple Agile sprints. The following modules are implemented:
+
+* User registration and login
+* Product browsing
+* Shopping cart
+* Order placement
+* Payment processing
+
+---
+
+## **7. Output Screens**
+
+The website includes:
+
+* Home Page
+* Product List
+* Product Details
+* Shopping Cart
+* Payment Page
+* Order Confirmation
+
+---
+
+## **8. Testing**
+
+Testing is done after every sprint.
+
+### **Test Results**
+
+| Test Case   | Expected Result    | Actual Result |
+| ----------- | ------------------ | ------------- |
+| Login       | Successful login   | Pass          |
+| Add to cart | Product added      | Pass          |
+| Place order | Order confirmed    | Pass          |
+| Payment     | Successful payment | Pass          |
+
+---
+
+## **9. User Model**
+
+### **Screen Layout**
+
+* Header with menu
+* Product display section
+* Cart and checkout buttons
+
+### **Screen Description**
+
+Users can browse products, add them to cart, and complete purchases using simple and interactive screens.
+
+---
+
+## **10. Software Application and Limitations**
+
+### **Applications**
+
+* Online retail stores
+* Wholesale businesses
+* Digital marketplaces
+
+### **Limitations**
+
+* Requires stable internet
+* Dependent on payment gateways
+* Limited offline access
+
+---
+
+## **11. Conclusion**
+
+The Online E-Commerce Website developed using Agile methodology provides a flexible and user-friendly shopping experience. Agile allows continuous improvement and quick adaptation to customer needs.
+
+---
+
+## **12. Future Enhancement**
+
+* Mobile shopping app
+* AI-based product recommendation
+* Chatbot support
+* Faster delivery tracking
+* Cloud deployment
+
+---
+

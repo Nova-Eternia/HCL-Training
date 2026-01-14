@@ -1,0 +1,217 @@
+
+---
+
+# **PROJECT REPORT**
+
+## **Travel Booking Platform using Agile Methodology**
+
+---
+
+## **1. Abstract**
+
+A Travel Booking Platform is a web-based system that allows users to search, book, and manage travel services such as flights, hotels, and travel packages. Traditional travel booking processes are time-consuming and inconvenient. This project develops a **Travel Booking Platform using Agile methodology**, which enables fast development, continuous improvement, and customer-focused design. Agile ensures the system is flexible, efficient, and aligned with changing user needs.
+
+---
+
+## **2. Introduction**
+
+With the growth of digital technology, people prefer booking travel services online. A Travel Booking Platform helps customers compare prices, check availability, and make bookings from anywhere. However, user expectations and travel policies change frequently. Using **Agile methodology** allows the platform to be developed in small stages, with regular feedback and continuous updates, ensuring high customer satisfaction.
+
+---
+
+### **2.1 Problem Statement**
+
+Traditional travel booking methods are manual, slow, and require physical visits to travel agencies. Even some online systems are rigid and difficult to update. A flexible and user-friendly travel booking system is required to meet modern customer demands.
+
+---
+
+### **2.2 Need of the Project**
+
+* To allow online booking of travel services
+* To save time and effort of users
+* To provide real-time availability and pricing
+* To improve customer experience
+* To enable continuous updates using Agile
+
+---
+
+### **2.3 Project Scheduling (Agile)**
+
+The project is divided into multiple sprints:
+
+| Sprint   | Activities                         |
+| -------- | ---------------------------------- |
+| Sprint 1 | Requirement gathering and planning |
+| Sprint 2 | User registration and login module |
+| Sprint 3 | Search and booking module          |
+| Sprint 4 | Payment and confirmation           |
+| Sprint 5 | Testing and deployment             |
+
+Each sprint produces a working part of the platform.
+
+---
+
+## **3. Objectives**
+
+* To design an online travel booking system
+* To provide easy search and booking of services
+* To use Agile for faster and flexible development
+* To improve user satisfaction
+* To ensure secure online payments
+
+---
+
+## **4. Software Requirement Specification (SRS)**
+
+### **4.1 Purpose**
+
+The purpose of this system is to create an online platform where users can search, book, and manage travel services easily using Agile methodology.
+
+---
+
+### **4.2 Scope**
+
+The system will:
+
+* Allow user registration and login
+* Display available flights, hotels, and packages
+* Enable booking and payment
+* Generate booking confirmations
+
+---
+
+### **4.3 Hardware Requirements**
+
+* Processor: Intel i3 or higher
+* RAM: 4 GB or more
+* Hard Disk: 40 GB
+* Internet connection
+
+---
+
+### **4.4 Software Requirements**
+
+* Operating System: Windows / Linux
+* Browser: Chrome, Edge
+* Backend: Java / Python
+* Frontend: HTML, CSS, JavaScript
+* Database: MySQL
+
+---
+
+### **4.5 Tools Used**
+
+* VS Code
+* MySQL
+* GitHub
+* Postman
+
+---
+
+### **4.6 Software Process Model**
+
+Agile (Scrum Framework)
+
+---
+
+## **5. System Design**
+
+The system consists of:
+
+* User Interface (Web Application)
+* Application Server
+* Database
+* Payment Gateway
+* Admin Panel
+
+Users interact with the system through a web interface, while data is stored securely in the database.
+
+---
+
+## **6. Implementation**
+
+The system is developed in multiple sprints:
+
+* User login and registration
+* Search for flights and hotels
+* Booking and payment system
+* Booking confirmation and history
+
+Each module is built, tested, and improved through Agile cycles.
+
+---
+
+## **7. Output Screens**
+
+The system includes:
+
+* Login and Registration Screen
+* Search Screen
+* Booking Page
+* Payment Page
+* Booking Confirmation Screen
+
+---
+
+## **8. Testing**
+
+Testing is done after every sprint.
+
+### **Test Results**
+
+| Test Case     | Expected Result    | Actual Result |
+| ------------- | ------------------ | ------------- |
+| User login    | Successful login   | Pass          |
+| Search travel | Results displayed  | Pass          |
+| Booking       | Booking confirmed  | Pass          |
+| Payment       | Payment successful | Pass          |
+
+---
+
+## **9. User Model**
+
+### **Screen Layout**
+
+* Header with menu
+* Search form
+* List of available services
+* Booking and payment buttons
+
+### **Screen Description**
+
+Users can search travel services, select options, and complete bookings using simple and interactive screens.
+
+---
+
+## **10. Software Application and Limitations**
+
+### **Applications**
+
+* Online travel agencies
+* Tourism companies
+* Airline and hotel booking systems
+
+### **Limitations**
+
+* Requires internet connectivity
+* Depends on third-party services
+* Limited offline functionality
+
+---
+
+## **11. Conclusion**
+
+The Travel Booking Platform developed using Agile methodology provides a flexible, user-friendly, and efficient way to book travel services. Agile ensures fast delivery, continuous improvement, and high customer satisfaction.
+
+---
+
+## **12. Future Enhancement**
+
+* Mobile app version
+* AI-based travel recommendations
+* Dynamic pricing system
+* Chatbot support
+* Integration with more travel services
+
+---
+

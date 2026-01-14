@@ -1,0 +1,214 @@
+
+---
+
+# **PROJECT REPORT**
+
+## **Healthcare Management System using Agile Methodology**
+
+---
+
+## **1. Abstract**
+
+A Healthcare Management System is a digital platform used to manage patient records, appointments, medical history, billing, and hospital operations. Manual healthcare systems are slow, error-prone, and difficult to maintain. This project develops a **Healthcare Management System using Agile methodology**, which allows continuous improvement, fast development, and better quality healthcare services. Agile helps the system adapt to changing medical and administrative needs.
+
+---
+
+## **2. Introduction**
+
+The healthcare industry requires accurate, secure, and fast information management. Hospitals and clinics deal with large volumes of patient data every day. Traditional paper-based systems and old software cannot meet modern healthcare requirements. Therefore, an Agile-based healthcare system is developed to ensure reliability, security, and efficiency.
+
+---
+
+### **2.1 Problem Statement**
+
+Manual and outdated healthcare systems lead to data loss, slow processing, and poor patient service. Doctors and hospital staff face difficulty in accessing patient records quickly. A modern digital healthcare system is required to solve these issues.
+
+---
+
+### **2.2 Need of the Project**
+
+* To store patient records digitally
+* To manage appointments and doctors
+* To improve healthcare service quality
+* To reduce paperwork
+* To allow continuous updates using Agile
+
+---
+
+### **2.3 Project Scheduling (Agile)**
+
+The project is divided into sprints:
+
+| Sprint   | Activities                       |
+| -------- | -------------------------------- |
+| Sprint 1 | Requirement analysis and design  |
+| Sprint 2 | Patient registration and records |
+| Sprint 3 | Appointment and doctor module    |
+| Sprint 4 | Billing and reports              |
+| Sprint 5 | Testing and deployment           |
+
+---
+
+## **3. Objectives**
+
+* To develop a healthcare management system
+* To improve patient care
+* To manage hospital data efficiently
+* To use Agile for flexible development
+* To ensure data security
+
+---
+
+## **4. Software Requirement Specification (SRS)**
+
+### **4.1 Purpose**
+
+To build a web-based healthcare system that manages patient, doctor, and hospital data using Agile methodology.
+
+---
+
+### **4.2 Scope**
+
+The system will:
+
+* Register patients
+* Manage appointments
+* Store medical records
+* Handle billing
+* Generate reports
+
+---
+
+### **4.3 Hardware Requirements**
+
+* Processor: Intel i3 or above
+* RAM: 4 GB or more
+* Hard Disk: 40 GB
+* Internet connection
+
+---
+
+### **4.4 Software Requirements**
+
+* Operating System: Windows / Linux
+* Browser: Chrome, Firefox
+* Backend: Java / Python
+* Frontend: HTML, CSS, JavaScript
+* Database: MySQL
+
+---
+
+### **4.5 Tools Used**
+
+* VS Code
+* MySQL
+* GitHub
+* Postman
+
+---
+
+### **4.6 Software Process Model**
+
+Agile (Scrum Framework)
+
+---
+
+## **5. System Design**
+
+The system includes:
+
+* Patient Interface
+* Doctor Interface
+* Admin Panel
+* Central Database
+* Security Module
+
+---
+
+## **6. Implementation**
+
+The system is developed in multiple Agile sprints:
+
+* Patient registration
+* Appointment booking
+* Medical record management
+* Billing system
+* Report generation
+
+Each module is continuously tested and improved.
+
+---
+
+## **7. Output Screens**
+
+The system provides:
+
+* Login Screen
+* Patient Dashboard
+* Appointment Booking
+* Medical Record View
+* Billing Screen
+
+---
+
+## **8. Testing**
+
+Testing is done after every sprint.
+
+### **Test Results**
+
+| Test Case           | Expected Result       | Actual Result |
+| ------------------- | --------------------- | ------------- |
+| Login               | Successful            | Pass          |
+| Appointment booking | Appointment confirmed | Pass          |
+| View medical record | Records displayed     | Pass          |
+| Billing             | Bill generated        | Pass          |
+
+---
+
+## **9. User Model**
+
+### **Screen Layout**
+
+* Menu bar
+* Forms for data entry
+* Tables for patient records
+
+### **Screen Description**
+
+Users can easily access and manage healthcare data through simple and secure screens.
+
+---
+
+## **10. Software Application and Limitations**
+
+### **Applications**
+
+* Hospitals
+* Clinics
+* Diagnostic centers
+
+### **Limitations**
+
+* Requires internet connection
+* Data security risks
+* Needs regular updates
+
+---
+
+## **11. Conclusion**
+
+The Healthcare Management System using Agile methodology provides a reliable and efficient way to manage hospital operations and patient care. Agile allows continuous improvement and better system performance.
+
+---
+
+## **12. Future Enhancement**
+
+* Telemedicine support
+* AI-based disease prediction
+* Mobile app
+* Cloud storage
+* Wearable device integration
+
+---
+
